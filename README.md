@@ -1,8 +1,8 @@
 # Projet supermarket-receipt
-## Nous avons pour but de creer une application de supermarché 
-## Pouvant supprimer , modifier, et afficher des articles 
-## Le projet est à finir pour la date du 27 Février (23h59)
-## 
+### Nous avons pour but de creer une application de supermarché 
+### Pouvant supprimer , modifier, et afficher des articles 
+### Le projet est à finir pour la date du 27 Février (23h59)
+##
 Tous commit après cette date sera pénalisé (-1point / commit supplémentaire) L'historique GIT celui-ci doit être lisible par une personne extérieure au projet afin de comprendre l'intention derrière chaque modification pas de message de commit type : fix, fix de fix, correction plusieurs fois le même message de commit ajouts des fichiers file1, file2 le message de commit doit répondre à la question : Pourquoi cette modification a-t-elle été faite ? 2 commits non consécutifs par personnes les étudiants n'ayant pas 2 commits non consécutifs à leur nom auront 0 Les tests doivent utiliser le framework junit-jupiter doivent couvrir à 100% le code métier (hors adapteur web-service) les méthodes de test doivent systématiquement comporter des vérifications (assertions) il ne doit pas y avoir de copié/collé, si plusieurs méthodes se ressemblent, il est attendu d'utiliser des tests paramétrés Le code principal sera essentiellement considéré le style : longueur des classes longueur des méthodes nommage compréhensible des variables, champs, méthodes, classes pas d'objets anémiques (anti-pattern) pas de type de retour void (intestable) découplage entre les objets (facilité à tester les objets individuellement) lisibilité du code: Peut-on comprendre sans lire l'intérieur des méthodes ce que fait le programme ? Bonus : Si les services HTTP/json fonctionnent (testable manuellement avec un navigateur web) = 2 points Si les services HTTP/json sont testés (avec des tests d'intégrations) = 2 point TP 1
 
 Création d'un dépôt Git sur GitHub
