@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+[![Build Status](https://travis-ci.org/{joyan341}/{supermarket-receipt}.png?branch=master)](https://travis-ci.org/{joyan341}/{supermarket-receipt})
 # Projet supermarket-receipt
 ### Nous avons pour but de creer une application de supermarché 
 ### Pouvant supprimer , modifier, et afficher des articles 
