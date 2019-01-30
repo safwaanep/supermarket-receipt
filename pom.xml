@@ -90,7 +90,6 @@
         <check />
     </configuration>
 </plugin>
-
   </build>
 
   <reporting>
