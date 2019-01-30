@@ -1,4 +1,4 @@
-package 2;
+package java;
 
 /**
  * Hello world!
