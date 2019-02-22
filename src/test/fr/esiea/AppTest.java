@@ -1,4 +1,4 @@
-package java;
+package fr.esiea;
 
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;

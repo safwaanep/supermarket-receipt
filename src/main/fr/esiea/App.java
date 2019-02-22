@@ -1,4 +1,4 @@
-package java;
+package fr.esiea;
 
 /**
  * Hello world!
