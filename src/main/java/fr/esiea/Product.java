@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+
 package fr.esiea;
+
+=======
+package fr.esiea;
+>>>>>>> master
 
 import java.util.Objects;
 
@@ -26,7 +32,7 @@ public class Product {
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
         return Objects.equals(name, product.name) &&
-                unit == product.unit;
+            unit == product.unit;
     }
 
     @Override
