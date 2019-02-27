@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package dojo.supermarket.model;
+=======
+package fr.esiea;
+>>>>>>> Stashed changes
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package dojo.supermarket.model;
+=======
+package fr.esiea;
+>>>>>>> Stashed changes
 
 public class ProductQuantity {
     private final Product product;
