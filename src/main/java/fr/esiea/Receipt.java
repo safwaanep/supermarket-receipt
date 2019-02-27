@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-
 package fr.esiea;
-
-=======
-package fr.esiea;
->>>>>>> master
 
 import java.util.ArrayList;
 import java.util.List;
