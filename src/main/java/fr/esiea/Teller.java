@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
-package dojo.supermarket.model;
-=======
+
 package fr.esiea;
->>>>>>> Stashed changes
+
 
 import java.util.HashMap;
 import java.util.List;
@@ -11,7 +9,7 @@ import java.util.Map;
 public class Teller {
 
     private final SupermarketCatalog catalog;
-    private Map<Product, Offer> offers = new HashMap<>();
+    private Map<Product, Offer> offers = new HashMap<Product, Offer>();
 
     public Teller(SupermarketCatalog catalog) {
         this.catalog = catalog;

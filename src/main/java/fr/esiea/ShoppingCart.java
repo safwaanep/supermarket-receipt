@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-package dojo.supermarket.model;
-=======
+
 package fr.esiea;
->>>>>>> Stashed changes
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,15 +8,15 @@ import java.util.Map;
 
 public class ShoppingCart {
 
-    private final List<ProductQuantity> items = new ArrayList<>();
-    Map<Product, Double> productQuantities = new HashMap<>();
+    private final List<ProductQuantity> items = new ArrayList<ProductQuantity>();
+    Map<Product, Double> productQuantities = new HashMap<Product, Double>();
 
 
     List<ProductQuantity> getItems() {
-        return new ArrayList<>(items);
+        return new ArrayList<ProductQuantity>(items);
     }
 
-    void addItem(Product product) {
+    public void addItem(Product product) {
         this.addItemQuantity(product, 1.0);
     }
 

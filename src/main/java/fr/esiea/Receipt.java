@@ -1,15 +1,13 @@
-<<<<<<< Updated upstream
-package dojo.supermarket.model;
-=======
+
 package fr.esiea;
->>>>>>> Stashed changes
+
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Receipt {
-    private List<ReceiptItem> items = new ArrayList<>();
-    private List<Discount> discounts = new ArrayList<>();
+    private List<ReceiptItem> items = new ArrayList<ReceiptItem>();
+    private List<Discount> discounts = new ArrayList<Discount>();
 
     public Double getTotalPrice() {
         double total = 0.0;
@@ -27,7 +25,7 @@ public class Receipt {
     }
 
     public List<ReceiptItem> getItems() {
-        return new ArrayList<>(this.items);
+        return new ArrayList<ReceiptItem>(this.items);
     }
 
     public void addDiscount(Discount discount) {

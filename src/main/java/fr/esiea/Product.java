@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
-package dojo.supermarket.model;
-=======
+
 package fr.esiea;
->>>>>>> Stashed changes
+
 
 import java.util.Objects;
 
@@ -30,7 +28,7 @@ public class Product {
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
         return Objects.equals(name, product.name) &&
-                unit == product.unit;
+            unit == product.unit;
     }
 
     @Override
