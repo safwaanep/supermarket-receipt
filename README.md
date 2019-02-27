@@ -5,10 +5,10 @@
 # Projet supermarket-receipt
 
 ## Membres du groupe :
-# AZIZI Younès
-# CAYOL Joe-Yann
-# MAGIT Jordan
-# MIRI Nada
-# PATEL Safwaane
+### AZIZI Younès
+### CAYOL Joe-Yann
+### MAGIT Jordan
+### MIRI Nada
+### PATEL Safwaane
 
 
