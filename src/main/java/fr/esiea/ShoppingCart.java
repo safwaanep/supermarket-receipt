@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 package fr.esiea;
 
 import java.util.ArrayList;

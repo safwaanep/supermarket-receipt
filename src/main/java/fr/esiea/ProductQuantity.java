@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 package fr.esiea;
 
+=======
+package fr.esiea;
+>>>>>>> master
 
 public class ProductQuantity {
     private final Product product;
