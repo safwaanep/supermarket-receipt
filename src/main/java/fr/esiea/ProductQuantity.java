@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-package fr.esiea;
-
-=======
 package fr.esiea;
 >>>>>>> master
 
